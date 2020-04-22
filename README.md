@@ -14,7 +14,7 @@ project-projectName -quit
 
 #### 格式说明：
 
-![命令格式](https://note.youdao.com/yws/public/resource/1e7b584b325e66461e9e4f439c64cbcc/xmlnote/2CD462B29842486599D2A0A796AAC70C/7992)
+![命令格式](https://github.com/benhero/UnityBuildAndroid/blob/master/Unity%E6%89%93%E5%8C%85APK.png?raw=true)
 
 
 1. Unity编辑器路径：非UnityHub路径，可以在UnityHub → 安装 → 具体Unity版本 → 右上角更多信息 → 在Finder中显示(在资源管理器中显示) 可以找到对应Unity应用的路径
