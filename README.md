@@ -1,6 +1,10 @@
 # UnityBuildAndroid
 Unity自动化打包Android APK工程案例
 
+## 零. 前言
+最近在做Unity开发，有个任务是通过Jenkins实现自动化打包Unity游戏成Android APK的需求，所以在完成任务后，梳理成了一个最简单的教学，也把遇到的坑和大家分享。
+
+若需要Jenkins打包，指需要通过Jenkins调用下面的命令即可实现基础需求。
 ## 一. 原理
 打开Unity程序 → 打开指定工程 → 调用Unity的BuildPipeline类进行打包
 
